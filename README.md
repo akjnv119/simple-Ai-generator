@@ -36,10 +36,4 @@ Users can generate funny jokes instantly with a single click.
 
 ---
 
-## 📸 Screenshot
-(Add screenshot here if you want)
-
----
-
-## 📂 Project Structure
 
