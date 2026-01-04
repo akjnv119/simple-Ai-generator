@@ -6,7 +6,7 @@ Users can generate funny jokes instantly with a single click.
 ---
 
 ## 🚀 Live Demo
-- **Frontend:** (Add your deployed frontend URL)
+- **Frontend:** https://simple-ai-joke-generator-seven.vercel.app/
 - **Backend API:** https://backend-for-ai-joke-generator.onrender.com/api/joke
 
 ---
